@@ -376,7 +376,7 @@
                                             <p class="p3"><span class="s1">Kviečiame balsuoti Lietuvos Respublikos vidaus reikalų ministerijos darbo tarybos rinkimuose ir i&scaron;rinkti 5 (penkis) darbo tarybos narius.</span><span class="s1">&nbsp;</span></p>
                                             <p class="p3"><span class="s1">Balsavimo nuoroda skirta tik Jums. Balsavimo metu užtikrinamas slaptas balsavimas.</span><span class="s1">&nbsp;</span></p>
                                             <p class="p3"><span class="s1">Prašome balsuoti paspaudus šią nuorodą: <a href="{{ route('vote', ['hash' => $ballot->hash]) }}">{{ route('vote', ['hash' => $ballot->hash]) }}</a></span><span class="s1">&nbsp;</span></p>
-                                            <p class="p3"><span class="s1"><strong>Balsavimo nuoroda bus aktyvi tik 2021 m. gruodžio 17 d. nuo 7.00 val. iki 17.00 val.</strong></span></p>
+                                            <p class="p3"><span class="s1"><strong>Balsavimo nuoroda bus aktyvi tik paskelbtą balsavimo dieną nuo 7.00 val. iki 17.00 val.</strong></span></p>
                                             <p class="p2"><span class="s2">Kandidatų į Vidaus reikalų ministerijos darbo tarybą sąrašas:</span><span class="s2">&nbsp;</span></p>
                                             <table class="t1" style="height: 769px;" cellspacing="0" cellpadding="0">
                                                 <tbody>
@@ -526,8 +526,8 @@
                                                 </tbody>
                                             </table>
                                             <p class="p6">&nbsp;</p>
-                                            <p class="p7"><span class="s1">Vidaus reikalų ministerijos darbo tarybos rinkimų komisija<br /></span></p>
-                                            <p class="p7"><span class="s1">Tel.&nbsp;+370 5 271 8233</span></p>
+                                            <p class="p7"><span class="s1">Tai automatinis pranešimas, prašome į jį neatsakyti.<br /></span></p>
+                                            <p class="p7"><span class="s1">Kilus klausimams prašome kreiptis į Vidaus reikalų ministerijos darbo tarybos rinkimų komisijos pirmininkę Ingą Prialgauskienę tel. (8 5) 271 8233 arba el. paštu inga.prialgauskiene@vrm.lt</span></p>
                                             <p class="p8">&nbsp;</p>
                                         </td>
                                     </tr>

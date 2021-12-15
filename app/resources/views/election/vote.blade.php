@@ -52,26 +52,6 @@
                         </div>
                     </form>
                     <br>
-                    <p style="text-indent: 50px; margin-bottom: 0" class="card-text">
-                    Vadovaudamiesi Lietuvos Respublikos darbo kodekso 171 straipsnio 7 dalimi, teikiame balsavimo biuletenio formą, su kuria turite susipažinti pasirašytinai, kad galėtumėte balsuoti.
-                    </p>
-                    <p style="text-indent: 50px; margin-bottom: 0" class="card-text">
-                    Prašome prie DVS užduoties paspausti „Atlikta“, taip patvirtindami balsavimo biuletenio Jums įteikimą.
-                    </p>
-                    <p style="text-indent: 50px; margin-bottom: 0" class="card-text">
-                    Vidaus reikalų ministerijos darbo tarybos rinkimų metu bus vykdomas elektroninis balsavimas elektroninio balsavimo platformoje, vadovaujantis Lietuvos Respublikos darbo kodekso 171 straipsnio 16 dalimi.
-                    </p>
-                    <p style="text-indent: 50px; margin-bottom: 0" class="card-text">
-                    Individuali balsavimo nuoroda rinkimų dieną Jums bus atsiųsta elektroniniu paštu.
-                    </p>
-                    <p style="text-indent: 50px; margin-bottom: 0" class="card-text">
-                    <b>Balsavimo nuoroda bus aktyvi tik 2021 m. gruodžio 17 d. nuo 7.00 val. iki 17.00 val.</b>
-                    </p>
-                    <br>
-                    <div>
-                        <div style="float:left">VRM darbo tarybos rinkimų komisijos pirmininkė</div>
-                        <div style="float: right">Inga Prialgauskienė</div>
-                    </div>
                     <br>
                     <br>
                 </div>

@@ -17,6 +17,13 @@
 - Check if you can access the system via the domain you declaired in .env and forward to the docker container's port
 - Done
 
+
+Password change:
+- ./vendor/bin/sail artisan tinker
+- User::find(1)->update(['email'=> 'info@example.com']);
+- User::find(1)->update(['password'=> Hash::make('labaistipruspassword')]);
+
+
 Donatas Prialgauskas <donatas@prialgauskas.lt>
 
 -----
